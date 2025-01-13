@@ -11,4 +11,9 @@
     "title": "Formation des équipes",
     "description": "Que ce soit pour l'utilisation d'Azure DevOps par le métier ou de Git pour les équipes de développement, j'accompagne les équipes de mes clients à prendre un nouveau virage."
   }
+  ,
+  {
+    "title": "Audit d'applications",
+    "description": "J'audite vos applications et vous propose des pistes d'améliorations ou de mises à jour."
+  }
 ]
