@@ -1,12 +1,14 @@
 [
   {
     "title": "Réalisation d'applications mobiles",
-    "description": "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    "url": "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i"
+    "description": "Dans le domaine de la logistique, j'ai réalisé une application permettant de suivre des colis au sein des entrepôts."
   },
   {
-    "title": "Formation Git",
-    "description": "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    "url": "https://github.com/microsoft/web-dev-for-beginners"
+    "title": "Applications Web internes",
+    "description": "Réalisation d'applications internes permettant d'améliorer la productivité de l'entreprise."
+  },
+  {
+    "title": "Formation des équipes",
+    "description": "Que ce soit pour l'utilisation d'Azure DevOps par le métier ou de Git pour les équipes de développement, j'accompagne les équipes de mes clients à prendre un nouveau virage."
   }
 ]
