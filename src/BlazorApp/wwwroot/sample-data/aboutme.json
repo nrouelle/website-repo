@@ -1,8 +1,9 @@
 {
-  "description": "Developpeuse freelance depuis 20 ans, j'accompagne mes clients dans la création et la réalisation de leurs outils.",
+  "description": "Developpeuse freelance depuis 20 ans, j'accompagne mes clients dans la création et la réalisation de leurs outils mais également dans la maintenance et la mise à niveau d'applicatifs utilisant des versions de frameworks non supportés.",
   "skills": [
     "Développement Web",
     "Développement mobile",
+    "Maintenance et évolution d'applications anciennes",
     "Recueil de besoins",
     "Formation des équipes",
     "Audit"

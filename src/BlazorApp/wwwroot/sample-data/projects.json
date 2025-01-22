@@ -1,7 +1,11 @@
 [
   {
+    "title": "Maintenance et évolution",
+    "description": "Evolution d'applications anciennes afin de se rapprocher des nouveaux standards et de palier à l'obsolescende des version de .Net"
+  },
+  {
     "title": "Réalisation d'applications mobiles",
-    "description": "Dans le domaine de la logistique, j'ai réalisé une application permettant de suivre des colis au sein des entrepôts."
+    "description": "Développement d'applications mobiles pour Android et iOS à l'aide de MAUI."
   },
   {
     "title": "Applications Web internes",
