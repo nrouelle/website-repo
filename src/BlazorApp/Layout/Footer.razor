@@ -44,10 +44,10 @@
                     <img src="@icons.Medium" alt="Medium" class="social-icon" />
                 </a>
             }
-            @if (string.IsNullOrWhiteSpace(property.Twitter) is false)
+            @if (string.IsNullOrWhiteSpace(property.Calendly) is false)
             {
-                <a href="https://twitter.com/@(property.Twitter)" target="_blank" rel="noopener noreferrer">
-                    <img src="@icons.Twitter" alt="Twitter" class="social-icon" />
+                <a href="https://calendly.com/@(property.Calendly)" target="_blank" rel="noopener noreferrer">
+                    <img src="@icons.calendly" alt="Calendly" class="social-icon" />
                 </a>
             }
             @if (string.IsNullOrWhiteSpace(property.YouTube) is false)
